@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-echo "checking out master branch"
-git checkout master
+echo "checking out production branch"
+git checkout production
 echo "pulling latest changes"
 git pull
 
